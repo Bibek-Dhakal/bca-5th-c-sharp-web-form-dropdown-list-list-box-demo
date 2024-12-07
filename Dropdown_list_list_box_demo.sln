@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dropdown_list_list_box_demo", "Dropdown_list_list_box_demo\Dropdown_list_list_box_demo.csproj", "{B92D074D-D652-4BBF-8F66-E0059B68E12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92D074D-D652-4BBF-8F66-E0059B68E12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92D074D-D652-4BBF-8F66-E0059B68E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92D074D-D652-4BBF-8F66-E0059B68E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92D074D-D652-4BBF-8F66-E0059B68E12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35732D5F-D85C-46DE-8466-FBE7DA5726C3}
+	EndGlobalSection
+EndGlobal
